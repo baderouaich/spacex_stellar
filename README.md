@@ -2,20 +2,15 @@
 Using flutter to make SpaceX data beautifully visible.
 
 ## ScreenShots
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_01.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_02.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_03.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_04.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_05.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_06.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_07.png" title="ScreenShots">
-  <img src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/flutter_08.png" title="ScreenShots">
-</p>
+<img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_01.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_02.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_03.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_04.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_05.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_06.png">
+<img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_07.png"> <img height="480px" src="https://raw.githubusercontent.com/BaderEddineOuaich/spacex_stellar/master/ScreenShots/flutter_08.png">
 
 ## Overview
 ![](overview.gif)
 
+
+## Google Play
+https://play.google.com/store/apps/details?id=com.spacex_stellar
 
 ## How to run
 Run Commands: 
