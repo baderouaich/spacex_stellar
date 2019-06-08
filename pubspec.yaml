@@ -1,0 +1,93 @@
+name: spacex_stellar
+description: Using flutter to make SpaceX data beautifully visible.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0+2 #make http requests
+  time_ago_provider: ^1.0.3 #Unix timestamp to time ago string
+  flutter_syntax_view: ^0.2.1 #syntax view widget highlighting code
+  webview_flutter: ^0.3.7+1 #Webview
+  page_transition: ^1.1.0 #Navigator animation
+  flutter_sticky_header: ^0.3.4 #ListView with header
+  extended_image: ^0.3.5 #Zoom Image
+  url_launcher: ^5.0.2 #link || mail || phone || sms Launcher
+  package_info: ^0.4.0+3 #get package info
+  cached_network_image: ^0.8.0 #Image network loader with a place holder
+  cupertino_icons: ^0.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.2 #Will handle adding app icon for ios & android. Note: requires to run a command (to run the package) to set the app icon: 'flutter pub pub run flutter_launcher_icons:main'
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/splash.gif
+    - assets/tabs/capsules.jpg
+    - assets/tabs/cores.jpg
+    - assets/tabs/dragons.jpg
+    - assets/tabs/history.jpg
+    - assets/tabs/info.jpg
+    - assets/tabs/landing_pads.jpg
+    - assets/tabs/launch_pads.jpg
+    - assets/tabs/launches.jpg
+    - assets/tabs/missions.jpg
+    - assets/tabs/payloads.jpg
+    - assets/tabs/roadster.jpg
+    - assets/tabs/rockets.jpg
+    - assets/tabs/ships.jpg
+    - assets/paypal.png
+    - assets/coffee.png
+    #code
+    - assets/code/main.txt 
+    - assets/code/capsules.txt 
+    - assets/code/cores.txt 
+    - assets/code/dragons.txt 
+    - assets/code/history.txt 
+    - assets/code/info.txt 
+    - assets/code/landing_pads.txt 
+    - assets/code/launch_pads.txt 
+    - assets/code/launches.txt 
+    - assets/code/missions.txt 
+    - assets/code/payloads.txt 
+    - assets/code/roadster.txt 
+    - assets/code/rockets.txt 
+    - assets/code/ships.txt 
+    - assets/code/api.txt 
+
+
+  fonts:
+    - family: SF Pro Display
+      fonts:
+      - asset: fonts/SF-Pro-Display-Ultralight.otf
+        weight: 100
+      - asset: fonts/SF-Pro-Display-Thin.otf
+        weight: 200
+      - asset: fonts/SF-Pro-Display-Light.otf
+        weight: 300
+      - asset: fonts/SF-Pro-Display-Regular.otf
+        weight: 400
+      - asset: fonts/SF-Pro-Display-Medium.otf
+        weight: 500
+      - asset: fonts/SF-Pro-Display-Semibold.otf
+        weight: 600
+      - asset: fonts/SF-Pro-Display-Bold.otf
+        weight: 700
+      - asset: fonts/SF-Pro-Display-Heavy.otf
+        weight: 800
+      - asset: fonts/SF-Pro-Display-Black.otf
+        weight: 900
+
