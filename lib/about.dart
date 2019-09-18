@@ -20,7 +20,7 @@ class _AboutState extends State<About> {
 
   @override
   Widget build(BuildContext context) {
-    const paypalUrl = "https://www.paypal.me/ouaichbadereddine";
+    const paypalUrl = "https://www.paypal.me/baderouaich";
     const githubUrl = "https://github.com/BaderEddineOuaich";
     const sourceCode = "https://github.com/BaderEddineOuaich/spacex_stellar";
     const spaceXApi = "https://docs.spacexdata.com/?version=latest";
