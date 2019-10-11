@@ -13,13 +13,15 @@ class _AboutState extends State<About> {
   @override
   void initState() {
     super.initState();
-    PackageInfo.fromPlatform().then((PackageInfo packageInfo) {
+    PackageInfo.fromPlatform().then((PackageInfo packageInfo)
+    {
       setState(() => version = packageInfo.version);
     });
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context)
+  {
     const paypalUrl = "https://www.paypal.me/baderouaich";
     const githubUrl = "https://github.com/BaderEddineOuaich";
     const sourceCode = "https://github.com/BaderEddineOuaich/spacex_stellar";
