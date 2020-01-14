@@ -18,7 +18,6 @@ Run Commands:
 * flutter run --release
 
 
-
 ## SpaceX API
 
 Here is the [Latest SpaceX Data API][SpaceXDataApi].
